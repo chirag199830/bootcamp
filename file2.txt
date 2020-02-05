@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 edit the same file
+=======
+diverging with commits
+>>>>>>> b2
 
